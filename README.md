@@ -1,5 +1,6 @@
 # project0
 
+# termux-setup-storage
 # apt update -y 
 # apt upgrade -y
 # apt install python3
