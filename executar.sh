@@ -1,4 +1,4 @@
 cd RM-phisher
 
-bash programa.py
+python3 programa.py
 bash RM-phisher
