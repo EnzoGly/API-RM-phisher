@@ -5,5 +5,5 @@
 # apt upgrade -y
 # apt install python3
 # cd project0
-# chmod +x python.py 
-# python3 python.py
+# chmod +x programa.py 
+# python3 programa.py
